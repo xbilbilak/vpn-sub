@@ -35,3 +35,11 @@ vless://06b65903-406d-4a41-8400-6fd5c0ee7798@104.16.72.101:2096?type=ws&security
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMDJqdWw0IiwgImFkZCI6ICIxMDQuMTYuNzIuMTAxIiwgInBvcnQiOiAiNDQzIiwgImlkIjogIjg2OTU3ZWMwLWIyMTMtNDMzYi1hNDNiLTUxZjIxNzVlMGVjMyIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAic3BhY2UuYnl1LmlkLnl4bHMuZXUuY2MiLCAicGF0aCI6ICIvYXUtZG8iLCAidGxzIjogInRscyIsICJzbmkiOiAic3BhY2UuYnl1LmlkLnl4bHMuZXUuY2MifQ==
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.211:8080#02jul5
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.215:8080#02jul6
+vless://659a9075-d5ab-4fd2-bf34-b37043fae832@104.16.72.101:443?type=ws&security=tls&sni=nbhhh.mrcool.kdns.fr&path=%2Fproxyip&host=nbhhh.mrcool.kdns.fr&encryption=none#02jul7
+trojan://86957ec0-b213-433b-a43b-51f2175e0ec3@104.16.72.101:443?type=ws&security=tls&sni=space.byu.id.yxls.eu.cc&path=%2Fau-do&host=space.byu.id.yxls.eu.cc#02jul8
+vless://06b65903-406d-4a41-8400-6fd5c0ee7798@104.16.72.2:2096?type=ws&security=tls&sni=sp.linuxdododo.ccwu.cc&fp=chrome&path=%2Fproxyip&host=sp.linuxdododo.ccwu.cc&encryption=none#02jul9
+trojan://f922fa0f-3311-4368-85ff-cf65e727c854@104.16.72.2:443?type=ws&security=tls&sni=space.byu.id.yxls.eu.cc&path=%2Fbr-orcl&host=space.byu.id.yxls.eu.cc#02jul10
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@188.166.69.138:443?type=ws&security=tls&sni=vpn47.cc.cd&fp=chrome&path=%2F&host=vpn47.cc.cd&encryption=none#02jul11
+trojan://86957ec0-b213-433b-a43b-51f2175e0ec3@104.16.72.2:443?type=ws&security=tls&sni=space.byu.id.yxls.eu.cc&path=%2Fau-do&host=space.byu.id.yxls.eu.cc#02jul12
+trojan://humanity@45.130.125.112:443?type=ws&security=tls&sni=www.calmlunch.com&fp=chrome&path=%2Fassignment#02jul13
+vless://3b715892-8610-4fdc-9086-647b36af5443@188.114.96.2:2086?type=xhttp&security=none&path=%2F%3Fed%3D2082&host=J.cafearen.ir&encryption=none#02jul14
