@@ -1,3 +1,1 @@
-vless://5aa16c6d-357b-459a-848d-53e4cddcffc3@31.210.53.161:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tr-ist-8.blook.network&fp=firefox&type=tcp&pbk=ZjjejWQ2z6v8yinwngZMjgh2rozcTfBgXC930RUDE1I&sid=7ccfb185&allowInsecure=1#🇹🇷⚡
-vless://a1472a7d-ca70-4490-a5a5-81537599861c@45.196.31.77:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=firefox&type=tcp&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&sid=2cfb5a0ae8ab0cb0&allowInsecure=1#🇱🇹⚡
-vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@51.91.254.99:8443?encryption=none&security=tls&sni=vpn47.cc.cd&fp=chrome&type=ws&host=vpn47.cc.cd&path=%2F&allowInsecure=1#🇫🇷⚡️
+vless://8cc4e5fa-943c-4bd7-93f1-02309c0a6b96@fl.purchasemarketing.com:443?encryption=none&security=tls&sni=ssl.fastly.com&type=ws&host=bazaryabab.global.ssl.fastly.net&path=%2F#🇳🇱
