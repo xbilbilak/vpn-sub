@@ -1,25 +1,11 @@
-vless://10f37182-bd18-dff6-23b6-cfbf648f7386@122.8.44.8:8443?security=reality&type=grpc&serviceName=TunService&mode=gun&sni=dl.google.com&fp=firefox&pbk=UvQ2HZFkQXrBiaprbcmks-aFo1dvnfPlHXcUKcl-i04#🇰🇿 KZ-01 ✅🛜📶 ▷ ⭐🅽 Ԏ ᆤ
-vless://10f37182-bd18-dff6-23b6-cfbf648f7386@122.8.44.8:8443?security=reality&type=grpc&serviceName=TunService&mode=gun&sni=res.cdn.office.net&fp=firefox&pbk=LthJBtl69pQPsGvMQNNe100a9YyqaTXdaIY8gzOF2HU#🇵🇱 PL-01 ✅🛜📶 ▷ ⭐🅽 Ԏ ᆤ
-vless://10f37182-bd18-dff6-23b6-cfbf648f7386@140.235.169.5:8443?security=reality&type=grpc&serviceName=TunService&mode=gun&sni=speed.cloudflare.com&fp=firefox&pbk=4e-unF1RO2v--E7-X3aqxnCSPaK9QaTfJ7LawAr2bRI#🇵🇰 PK-01 ✅🛜📶 ▷ ⭐🅽 Ԏ ᆤ
-vless://10f37182-bd18-dff6-23b6-cfbf648f7386@140.235.168.9:8443?security=reality&type=grpc&serviceName=TunService&mode=gun&sni=speed.cloudflare.com&fp=firefox&pbk=oE7ZEghzkaOUiw1q3PqBtpllP1NlPHLY8ydJRuICtko#🇸🇨 SC-01 ✅🛜📶 ▷ ⭐🅽 Ԏ ᆤ
-vless://10f37182-bd18-dff6-23b6-cfbf648f7386@104.245.242.4:8443?security=reality&type=grpc&serviceName=TunService&mode=gun&sni=cdn.steamstatic.com&fp=firefox&pbk=fp2XmT8otUDkl65Df2h1b5b0oCe0CQiAimPKEMdnwmI#🇺🇸 US-01 ✅🛜📶 ▷ ⭐🅽 Ԏ ᆤ
-vless://10f37182-bd18-dff6-23b6-cfbf648f7386@104.245.242.4:8443?security=reality&type=grpc&serviceName=TunService&mode=gun&sni=res.cdn.office.net&fp=firefox&pbk=_pfnx4mNda47T7Hyi_tNfnSXzL9fL4EKQWNu31NSkmo#🇺🇸 US-02 ✅🛜📶 ▷ ⭐🅽 Ԏ ᆤ
-vless://10f37182-bd18-dff6-23b6-cfbf648f7386@104.245.242.4:8443?security=reality&type=grpc&serviceName=TunService&mode=gun&sni=dl.google.com&fp=firefox&pbk=xIjbKxdcvohT7h7YKLulv287nKjzhilSCqFbphItQGI#🇺🇸 US-04 ✅🛜📶 ▷ ⭐🅽 Ԏ ᆤ
-vless://10f37182-bd18-dff6-23b6-cfbf648f7386@122.8.44.8:8443?security=reality&type=grpc&serviceName=TunService&mode=gun&sni=download.nvidia.com&fp=firefox&pbk=SkPIAkSI8R1LY1hynsZZcxKkPmJKU11DAMncccLEdjI#🇩🇪 DE-01 ✅🛜📶 ▷ ⭐🅽 Ԏ ᆤ
-vless://10f37182-bd18-dff6-23b6-cfbf648f7386@104.245.242.6:8443?security=reality&type=grpc&serviceName=TunService&mode=gun&sni=cdn.steamstatic.com&fp=firefox&pbk=eJeVlxdi2YBV1YpPVCcCgTez80y8ny27SQoZZVBFGyc#🇳🇱 NL-01 ✅🛜📶 ▷ ⭐🅽 Ԏ ᆤ
-vless://10f37182-bd18-dff6-23b6-cfbf648f7386@104.245.242.6:8443?security=reality&type=grpc&serviceName=TunService&mode=gun&sni=download.nvidia.com&fp=firefox&pbk=pd7ujYvrLsVhoEia4dhxPqmpAuapnezqMilXBSDIfgk#🇫🇷 FR-02 ✅🛜📶 ▷ ⭐🅽 Ԏ ᆤ
-vless://10f37182-bd18-dff6-23b6-cfbf648f7386@104.245.242.6:8443?security=reality&type=grpc&serviceName=TunService&mode=gun&sni=res.cdn.office.net&fp=firefox&pbk=0xVsi6JYS-gJFUILwuePsB32jvWtxRT_okJSmcWEQEc#🇳🇱 NL-02 ✅🛜📶 ▷ ⭐🅽 Ԏ ᆤ
 vless://10f37182-bd18-dff6-23b6-cfbf648f7386@122.8.44.8:8443?security=reality&type=grpc&serviceName=TunService&mode=gun&sni=cdn.steamstatic.com&fp=firefox&pbk=E1iFYUiUC2G4W70mwPyfa9oV3EVt26SfZoLcqd2yaUI#🇬🇧 UK-01 ✅🛜📶 ▷ ⭐🅽 Ԏ ᆤ
-vless://10f37182-bd18-dff6-23b6-cfbf648f7386@104.245.240.7:8443?security=reality&type=grpc&serviceName=TunService&mode=gun&sni=cdn.steamstatic.com&fp=firefox&pbk=Ot7NIMwy588LBegSSLxqxzXh9MszA0CxFPHbSAj7PR0#🇷🇺 RU-01 ✅🛜📶 ▷ Ԏ
-vless://10f37182-bd18-dff6-23b6-cfbf648f7386@104.245.242.6:8443?security=reality&type=grpc&serviceName=TunService&mode=gun&sni=dl.google.com&fp=firefox&pbk=yom9KP2ytaVYsKof-Wp5-M78ykcF4RV8YmWYpiGKamI#🇺🇦 UA-01 ✅🛜📶 ▷ ⭐🅽 Ԏ ᆤ
-vless://10f37182-bd18-dff6-23b6-cfbf648f7386@140.235.169.5:8443?security=reality&type=grpc&serviceName=TunService&mode=gun&sni=cdn.steamstatic.com&fp=firefox&pbk=wl7R7v8MbaC_Nh-_FNf1DoFXHDquVRtfX2Z20oXL6Q8#🇺🇸 US-03 ✅🛜📶 ▷ ⭐🅽 Ԏ ᆤ
-vless://10f37182-bd18-dff6-23b6-cfbf648f7386@140.235.169.5:8443?security=reality&type=grpc&serviceName=TunService&mode=gun&sni=res.cdn.office.net&fp=firefox&pbk=BqPcbcS0agCOmW5xem5nQldi_2oGariVJdJZ6Q57810#🇺🇸 US-05 ✅🛜📶 ▷ ⭐🅽 Ԏ ᆤ
-vless://10f37182-bd18-dff6-23b6-cfbf648f7386@104.245.242.4:8443?security=reality&type=grpc&serviceName=TunService&mode=gun&sni=download.nvidia.com&fp=firefox&pbk=mdN58_sSqP17lYoc-cWvIgtHjzb8vlqJv5t24Y9Bnic#🇺🇸 US-06 ✅🛜📶 ▷
-vless://10f37182-bd18-dff6-23b6-cfbf648f7386@104.245.240.7:8443?security=reality&type=grpc&serviceName=TunService&mode=gun&sni=download.nvidia.com&fp=firefox&pbk=6h7z2IG6_BopO2tGTRAytfMOWbcXxRWghb2c9IILJkA#🇹🇷 TR-01 ✅🛜📶 ▷ ⭐🅽 Ԏ ᆤ
-vless://10f37182-bd18-dff6-23b6-cfbf648f7386@104.245.243.6:8443?security=reality&type=grpc&serviceName=TunService&mode=gun&sni=res.cdn.office.net&fp=firefox&pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y#🇮🇳 IN-01 ✅🛜📶 ▷ ⭐🅽 Ԏ ᆤ
-vless://10f37182-bd18-dff6-23b6-cfbf648f7386@104.245.243.6:8443?security=reality&type=grpc&serviceName=TunService&mode=gun&sni=download.nvidia.com&fp=firefox&pbk=SnjXP0GFBVxg3C7sbWUJ5JqKpnlg_BNMXuqoE78YhVE#🇮🇳 IN-02 ✅🛜📶 ▷ ⭐🅽 Ԏ ᆤ
-vless://10f37182-bd18-dff6-23b6-cfbf648f7386@104.245.243.6:8443?security=reality&type=grpc&serviceName=TunService&mode=gun&sni=dl.google.com&fp=firefox&pbk=DnnQOtWhilZ3rqlSip0spBkluYlPeydouSR3iklbPTs#🇮🇳 IN-03 ✅🛜📶 ▷ ⭐🅽 Ԏ ᆤ
+
+vless://10f37182-bd18-dff6-23b6-cfbf648f7386@122.8.44.8:443?security=reality&type=xhttp&path=%2F&sni=cdn.steamstatic.com&fp=firefox&pbk=E1iFYUiUC2G4W70mwPyfa9oV3EVt26SfZoLcqd2yaUI#🇬🇧 UK-01 ⚡🛜📶 ▷ ⭐🅽 Ԏ ᆤ
+
+vless://10f37182-bd18-dff6-23b6-cfbf648f7386@122.8.44.8:993?security=reality&type=tcp&flow=xtls-rprx-vision&sni=cdn.steamstatic.com&fp=firefox&pbk=E1iFYUiUC2G4W70mwPyfa9oV3EVt26SfZoLcqd2yaUI#🇬🇧 UK-01 🛜📶🛡️ ▷ ⭐🅽 Ԏ ᆤ
+
 vless://10f37182-bd18-dff6-23b6-cfbf648f7386@122.8.44.4:8443?security=reality&type=grpc&serviceName=TunService&mode=gun&sni=cdn.steamstatic.com&fp=firefox&pbk=_KiM4lu8Em0mJFmY8t2XRYGL-H2jbCtfKaFB0Io6JCE#🇪🇸 ES-01 ✅🛜📶 ▷ ⭐🅽 Ԏ ᆤ
-vless://10f37182-bd18-dff6-23b6-cfbf648f7386@122.8.44.4:8443?security=reality&type=grpc&serviceName=TunService&mode=gun&sni=res.cdn.office.net&fp=firefox&pbk=oS6X1GK-gYtOfvMbwhhxpRfXBJlgy2sO6MbblxYNsA4#🇷🇺 RU-02 ✅🛜📶 ▷ ⭐🅽 Ԏ ᆤ
-vless://10f37182-bd18-dff6-23b6-cfbf648f7386@104.245.240.7:8443?security=reality&type=grpc&serviceName=TunService&mode=gun&sni=res.cdn.office.net&fp=chrome&pbk=NV5NVBm_GHaQvkN_VI7WSfmrxQAY_aQxIh4jzuPPQU8#🇫🇷 FR-01 ✅🛜📶 ▷
-vless://10f37182-bd18-dff6-23b6-cfbf648f7386@104.245.243.6:8443?security=reality&type=grpc&serviceName=TunService&mode=gun&sni=cdn.steamstatic.com&fp=chrome&pbk=Tv-cNH4ADnhrcIc_JIHdTCz2PJ3b4jkmLNAJ4OVKuzY#🇦🇪 AE-01 ✅🛜📶 ▷ ⭐🅽 Ԏ ᆤ
+
+vless://10f37182-bd18-dff6-23b6-cfbf648f7386@122.8.44.4:443?security=reality&type=xhttp&path=%2F&sni=cdn.steamstatic.com&fp=firefox&pbk=_KiM4lu8Em0mJFmY8t2XRYGL-H2jbCtfKaFB0Io6JCE#🇪🇸 ES-01 ⚡🛜📶 ▷ ⭐🅽 Ԏ ᆤ
+
+vless://10f37182-bd18-dff6-23b6-cfbf648f7386@122.8.44.4:993?security=reality&type=tcp&flow=xtls-rprx-vision&sni=cdn.steamstatic.com&fp=firefox&pbk=_KiM4lu8Em0mJFmY8t2XRYGL-H2jbCtfKaFB0Io6JCE#🇪🇸 ES-01 🛜📶🛡️ ▷ ⭐🅽 Ԏ ᆤ
