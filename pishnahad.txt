@@ -2,15 +2,6 @@
   "app": "poolvade",
   "format": 1,
   "marks": [
-    "104.245.242.8:443",
-    "147.78.182.3:443",
-    "147.78.182.3:8443",
-    "170.168.97.8:443",
-    "170.168.97.8:8443",
-    "170.168.99.6:443",
-    "170.168.99.6:8443",
-    "62.233.39.9:443",
-    "64.49.38.4:443",
     "s:3b16c306d5f7b1db9936abda",
     "s:4ce24e4f3e43827c4aee1261",
     "s:6910afe79ace9ded9c7b4106",
@@ -20,6 +11,9 @@
     "s:b10aa212af7054b8aa5b15ab",
     "s:e7ef2583eb2493b43d30c02e",
     "s:fc5e091872d07e7fe6d21f86",
-    "s:fca1c8c6560644cc0b2387ad"
+    "s:fca1c8c6560644cc0b2387ad",
+    "vless|104.245.242.8|443|f1ab1811-7396-aa8c-39a3-5fc44264e421|reality|xhttp|download.nvidia.com||\/||FOQzn10eHqu4F5xOxiXW2bTDG8lH4TdOXP6A5rDqKFk||",
+    "vless|147.78.182.3|443|f1ab1811-7396-aa8c-39a3-5fc44264e421|reality|xhttp|www.epson.com||\/||Rt2wltCWOxIroFggNWMudZDBJXls8DsF4icaWqxKDk8||",
+    "vless|170.168.97.8|443|f1ab1811-7396-aa8c-39a3-5fc44264e421|reality|xhttp|cdn.steamstatic.com||\/||jYD82Xg6TRu2lR0XINMWxKb8dNycDwF-H28ZrtiafUo||"
   ]
 }
