@@ -1,0 +1,347 @@
+{
+  "app": "PoolvadeVPN",
+  "format": 1,
+  "version": "2.8.1",
+  "created": 1790356526844,
+  "prefs": {
+    "settings": {
+      "app_language": {
+        "t": "s",
+        "v": "en"
+      },
+      "p1__notif_last_check": {
+        "t": "l",
+        "v": 1790337337100
+      },
+      "p1__smart_split_enabled": {
+        "t": "b",
+        "v": true
+      },
+      "notif_card_seen": {
+        "t": "s",
+        "v": "سرورای gRcp حذف شدن ب علت ناپایداری \nاز chefs picks یا همو انتخاب سرآشپز غافل نشید که بشدت خدان \nمشکلی بود بگین"
+      },
+      "active_profile": {
+        "t": "i",
+        "v": 1
+      },
+      "p1__dns_servers": {
+        "t": "s",
+        "v": "1.1.1.1"
+      },
+      "p1_notif_last_check": {
+        "t": "l",
+        "v": 1790350208600
+      },
+      "p1_section_open_xray_core": {
+        "t": "b",
+        "v": true
+      },
+      "chef_removed_marks": {
+        "t": "ss",
+        "v": []
+      },
+      "p1_section_open_connection": {
+        "t": "b",
+        "v": true
+      },
+      "p1__vless_last_check": {
+        "t": "l",
+        "v": 1790317787198
+      },
+      "p1__vless_last_count": {
+        "t": "i",
+        "v": 103
+      },
+      "p1__chef_cloud_marks": {
+        "t": "ss",
+        "v": [
+          "vless|170.168.99.6|443|f1ab1811-7396-aa8c-39a3-5fc44264e421|reality|xhttp|www.epson.com||\/||-GbQJg3bnEGEVFjVaRRu01cgF1f0K_maI4d5MWtMb28||",
+          "s:4ce24e4f3e43827c4aee1261",
+          "s:fc5e091872d07e7fe6d21f86",
+          "s:fca1c8c6560644cc0b2387ad",
+          "s:b10aa212af7054b8aa5b15ab",
+          "vless|147.78.182.5|443|79c1177e-4cf6-c135-09bf-9aaf3b4945b9|reality|xhttp|dl.kaspersky.com||\/||Nnpwm8dqFl9dlMJmg0M9G11vmgCKzNagFTn4tH4sWy4||",
+          "vless|104.245.240.9|443|79c1177e-4cf6-c135-09bf-9aaf3b4945b9|reality|xhttp|cdn.steamstatic.com||\/||jYD82Xg6TRu2lR0XINMWxKb8dNycDwF-H28ZrtiafUo||",
+          "vless|147.78.182.3|443|f1ab1811-7396-aa8c-39a3-5fc44264e421|reality|xhttp|www.epson.com||\/||Rt2wltCWOxIroFggNWMudZDBJXls8DsF4icaWqxKDk8||",
+          "vless|64.49.38.4|443|f1ab1811-7396-aa8c-39a3-5fc44264e421|reality|xhttp|www.lenovo.com||\/||tICt4RT_Rw9KAU8hIf05_fzAMZnfUUyMfE-Ept6zcBY||",
+          "vless|62.233.39.9|443|f1ab1811-7396-aa8c-39a3-5fc44264e421|reality|xhttp|dl.dell.com||\/||oHaUPZiESTQQ89DMd4uIcPWgsyeFFy58iZYX_8mbvWk||",
+          "vless|170.168.97.8|443|f1ab1811-7396-aa8c-39a3-5fc44264e421|reality|xhttp|www.hp.com||\/||QzFNQqkvBnDKIyjXUHJQe9jruaw9G5AV44vDC-qvnlo||",
+          "s:aee0ccbf302d264f604c2ea6",
+          "vless|45.88.13.6|443|79c1177e-4cf6-c135-09bf-9aaf3b4945b9|reality|xhttp|download.nvidia.com||\/||FOQzn10eHqu4F5xOxiXW2bTDG8lH4TdOXP6A5rDqKFk||",
+          "vless|104.245.240.9|443|79c1177e-4cf6-c135-09bf-9aaf3b4945b9|reality|xhttp|www.hp.com||\/||QzFNQqkvBnDKIyjXUHJQe9jruaw9G5AV44vDC-qvnlo||",
+          "vless|147.78.182.5|443|79c1177e-4cf6-c135-09bf-9aaf3b4945b9|reality|xhttp|www.epson.com||\/||Rt2wltCWOxIroFggNWMudZDBJXls8DsF4icaWqxKDk8||",
+          "s:6910afe79ace9ded9c7b4106",
+          "s:9c36f23b2294b90fb469ecc2",
+          "vless|147.78.182.3|443|f1ab1811-7396-aa8c-39a3-5fc44264e421|reality|xhttp|dl.kaspersky.com||\/||Nnpwm8dqFl9dlMJmg0M9G11vmgCKzNagFTn4tH4sWy4||",
+          "vless|104.245.240.8|443|79c1177e-4cf6-c135-09bf-9aaf3b4945b9|reality|xhttp|www.epson.com||\/||-GbQJg3bnEGEVFjVaRRu01cgF1f0K_maI4d5MWtMb28||",
+          "vless|104.245.242.8|443|f1ab1811-7396-aa8c-39a3-5fc44264e421|reality|xhttp|download.nvidia.com||\/||FOQzn10eHqu4F5xOxiXW2bTDG8lH4TdOXP6A5rDqKFk||",
+          "s:6c391892909b2937d4b3357d",
+          "vless|140.235.168.5|443|79c1177e-4cf6-c135-09bf-9aaf3b4945b9|reality|xhttp|www.lenovo.com||\/||tICt4RT_Rw9KAU8hIf05_fzAMZnfUUyMfE-Ept6zcBY||",
+          "s:3b16c306d5f7b1db9936abda",
+          "s:e7ef2583eb2493b43d30c02e",
+          "vless|170.168.97.8|443|f1ab1811-7396-aa8c-39a3-5fc44264e421|reality|xhttp|cdn.steamstatic.com||\/||jYD82Xg6TRu2lR0XINMWxKb8dNycDwF-H28ZrtiafUo||"
+        ]
+      },
+      "notif_card_minimized": {
+        "t": "b",
+        "v": false
+      },
+      "p1__chef_last_check": {
+        "t": "l",
+        "v": 1790334595603
+      },
+      "p1_section_open_backup": {
+        "t": "b",
+        "v": true
+      },
+      "chef_cloud_marks": {
+        "t": "ss",
+        "v": [
+          "vless|170.168.99.6|443|f1ab1811-7396-aa8c-39a3-5fc44264e421|reality|xhttp|www.epson.com||\/||-GbQJg3bnEGEVFjVaRRu01cgF1f0K_maI4d5MWtMb28||",
+          "s:4ce24e4f3e43827c4aee1261",
+          "s:fc5e091872d07e7fe6d21f86",
+          "s:fca1c8c6560644cc0b2387ad",
+          "s:b10aa212af7054b8aa5b15ab",
+          "vless|147.78.182.5|443|79c1177e-4cf6-c135-09bf-9aaf3b4945b9|reality|xhttp|dl.kaspersky.com||\/||Nnpwm8dqFl9dlMJmg0M9G11vmgCKzNagFTn4tH4sWy4||",
+          "vless|104.245.240.9|443|79c1177e-4cf6-c135-09bf-9aaf3b4945b9|reality|xhttp|cdn.steamstatic.com||\/||jYD82Xg6TRu2lR0XINMWxKb8dNycDwF-H28ZrtiafUo||",
+          "vless|147.78.182.3|443|f1ab1811-7396-aa8c-39a3-5fc44264e421|reality|xhttp|www.epson.com||\/||Rt2wltCWOxIroFggNWMudZDBJXls8DsF4icaWqxKDk8||",
+          "vless|64.49.38.4|443|f1ab1811-7396-aa8c-39a3-5fc44264e421|reality|xhttp|www.lenovo.com||\/||tICt4RT_Rw9KAU8hIf05_fzAMZnfUUyMfE-Ept6zcBY||",
+          "vless|62.233.39.9|443|f1ab1811-7396-aa8c-39a3-5fc44264e421|reality|xhttp|dl.dell.com||\/||oHaUPZiESTQQ89DMd4uIcPWgsyeFFy58iZYX_8mbvWk||",
+          "vless|170.168.97.8|443|f1ab1811-7396-aa8c-39a3-5fc44264e421|reality|xhttp|www.hp.com||\/||QzFNQqkvBnDKIyjXUHJQe9jruaw9G5AV44vDC-qvnlo||",
+          "s:aee0ccbf302d264f604c2ea6",
+          "vless|45.88.13.6|443|79c1177e-4cf6-c135-09bf-9aaf3b4945b9|reality|xhttp|download.nvidia.com||\/||FOQzn10eHqu4F5xOxiXW2bTDG8lH4TdOXP6A5rDqKFk||",
+          "vless|104.245.240.9|443|79c1177e-4cf6-c135-09bf-9aaf3b4945b9|reality|xhttp|www.hp.com||\/||QzFNQqkvBnDKIyjXUHJQe9jruaw9G5AV44vDC-qvnlo||",
+          "vless|147.78.182.5|443|79c1177e-4cf6-c135-09bf-9aaf3b4945b9|reality|xhttp|www.epson.com||\/||Rt2wltCWOxIroFggNWMudZDBJXls8DsF4icaWqxKDk8||",
+          "s:6910afe79ace9ded9c7b4106",
+          "s:9c36f23b2294b90fb469ecc2",
+          "vless|147.78.182.3|443|f1ab1811-7396-aa8c-39a3-5fc44264e421|reality|xhttp|dl.kaspersky.com||\/||Nnpwm8dqFl9dlMJmg0M9G11vmgCKzNagFTn4tH4sWy4||",
+          "vless|104.245.240.8|443|79c1177e-4cf6-c135-09bf-9aaf3b4945b9|reality|xhttp|www.epson.com||\/||-GbQJg3bnEGEVFjVaRRu01cgF1f0K_maI4d5MWtMb28||",
+          "vless|104.245.242.8|443|f1ab1811-7396-aa8c-39a3-5fc44264e421|reality|xhttp|download.nvidia.com||\/||FOQzn10eHqu4F5xOxiXW2bTDG8lH4TdOXP6A5rDqKFk||",
+          "s:6c391892909b2937d4b3357d",
+          "vless|140.235.168.5|443|79c1177e-4cf6-c135-09bf-9aaf3b4945b9|reality|xhttp|www.lenovo.com||\/||tICt4RT_Rw9KAU8hIf05_fzAMZnfUUyMfE-Ept6zcBY||",
+          "s:3b16c306d5f7b1db9936abda",
+          "s:e7ef2583eb2493b43d30c02e",
+          "vless|170.168.97.8|443|f1ab1811-7396-aa8c-39a3-5fc44264e421|reality|xhttp|cdn.steamstatic.com||\/||jYD82Xg6TRu2lR0XINMWxKb8dNycDwF-H28ZrtiafUo||"
+        ]
+      },
+      "vless_last_count": {
+        "t": "i",
+        "v": 103
+      },
+      "vless_picker_tab": {
+        "t": "i",
+        "v": 2
+      },
+      "p1__tor_chain_armed": {
+        "t": "b",
+        "v": true
+      },
+      "vless_last_check": {
+        "t": "l",
+        "v": 1790354929474
+      },
+      "p1_wireguard_data_check": {
+        "t": "b",
+        "v": false
+      },
+      "p1_section_open_routing_data": {
+        "t": "b",
+        "v": true
+      },
+      "p1_section_open_psiphon": {
+        "t": "b",
+        "v": false
+      },
+      "p1__default_protocol": {
+        "t": "s",
+        "v": "vless"
+      },
+      "p1_section_open_protection": {
+        "t": "b",
+        "v": true
+      },
+      "p1_section_open_anti_dpi": {
+        "t": "b",
+        "v": true
+      },
+      "chef_local_marks": {
+        "t": "ss",
+        "v": [
+          "vless|147.78.182.5|443|79c1177e-4cf6-c135-09bf-9aaf3b4945b9|reality|xhttp|www.epson.com||\/||Rt2wltCWOxIroFggNWMudZDBJXls8DsF4icaWqxKDk8||",
+          "vless|104.245.240.9|443|79c1177e-4cf6-c135-09bf-9aaf3b4945b9|reality|xhttp|www.hp.com||\/||QzFNQqkvBnDKIyjXUHJQe9jruaw9G5AV44vDC-qvnlo||",
+          "vless|104.245.240.8|443|79c1177e-4cf6-c135-09bf-9aaf3b4945b9|reality|xhttp|www.epson.com||\/||-GbQJg3bnEGEVFjVaRRu01cgF1f0K_maI4d5MWtMb28||",
+          "vless|170.168.99.6|443|f1ab1811-7396-aa8c-39a3-5fc44264e421|reality|xhttp|www.epson.com||\/||-GbQJg3bnEGEVFjVaRRu01cgF1f0K_maI4d5MWtMb28||",
+          "vless|64.49.38.4|443|f1ab1811-7396-aa8c-39a3-5fc44264e421|reality|xhttp|www.lenovo.com||\/||tICt4RT_Rw9KAU8hIf05_fzAMZnfUUyMfE-Ept6zcBY||",
+          "vless|140.235.168.5|443|79c1177e-4cf6-c135-09bf-9aaf3b4945b9|reality|xhttp|www.lenovo.com||\/||tICt4RT_Rw9KAU8hIf05_fzAMZnfUUyMfE-Ept6zcBY||",
+          "vless|62.233.39.9|443|f1ab1811-7396-aa8c-39a3-5fc44264e421|reality|xhttp|dl.dell.com||\/||oHaUPZiESTQQ89DMd4uIcPWgsyeFFy58iZYX_8mbvWk||",
+          "vless|147.78.182.5|443|79c1177e-4cf6-c135-09bf-9aaf3b4945b9|reality|xhttp|dl.kaspersky.com||\/||Nnpwm8dqFl9dlMJmg0M9G11vmgCKzNagFTn4tH4sWy4||",
+          "vless|104.245.240.9|443|79c1177e-4cf6-c135-09bf-9aaf3b4945b9|reality|xhttp|cdn.steamstatic.com||\/||jYD82Xg6TRu2lR0XINMWxKb8dNycDwF-H28ZrtiafUo||",
+          "vless|170.168.97.8|443|f1ab1811-7396-aa8c-39a3-5fc44264e421|reality|xhttp|www.hp.com||\/||QzFNQqkvBnDKIyjXUHJQe9jruaw9G5AV44vDC-qvnlo||",
+          "vless|147.78.182.3|443|f1ab1811-7396-aa8c-39a3-5fc44264e421|reality|xhttp|dl.kaspersky.com||\/||Nnpwm8dqFl9dlMJmg0M9G11vmgCKzNagFTn4tH4sWy4||",
+          "vless|45.88.13.6|443|79c1177e-4cf6-c135-09bf-9aaf3b4945b9|reality|xhttp|download.nvidia.com||\/||FOQzn10eHqu4F5xOxiXW2bTDG8lH4TdOXP6A5rDqKFk||"
+        ]
+      },
+      "p1_chain_armed": {
+        "t": "b",
+        "v": false
+      },
+      "p1_mixed_case_sni": {
+        "t": "b",
+        "v": true
+      },
+      "vless_pinned_node": {
+        "t": "s",
+        "v": "15adeec26470637f"
+      },
+      "chef_last_check": {
+        "t": "l",
+        "v": 1790354922659
+      },
+      "p1__chain_armed": {
+        "t": "b",
+        "v": false
+      },
+      "xray_mux_enabled": {
+        "t": "b",
+        "v": false
+      },
+      "p1_section_open_profile": {
+        "t": "b",
+        "v": true
+      },
+      "notif_last_check": {
+        "t": "l",
+        "v": 1790354918087
+      },
+      "perf_profile": {
+        "t": "s",
+        "v": "high"
+      },
+      "admin_unlocked": {
+        "t": "b",
+        "v": true
+      },
+      "p1_chef_last_check": {
+        "t": "l",
+        "v": 1790350230042
+      },
+      "language_chosen": {
+        "t": "b",
+        "v": true
+      },
+      "p1_mim_armed": {
+        "t": "b",
+        "v": true
+      },
+      "p1_default_protocol": {
+        "t": "s",
+        "v": "vless"
+      },
+      "p1_chef_cloud_marks": {
+        "t": "ss",
+        "v": [
+          "vless|170.168.99.6|443|f1ab1811-7396-aa8c-39a3-5fc44264e421|reality|xhttp|www.epson.com||\/||-GbQJg3bnEGEVFjVaRRu01cgF1f0K_maI4d5MWtMb28||",
+          "s:4ce24e4f3e43827c4aee1261",
+          "s:fc5e091872d07e7fe6d21f86",
+          "s:fca1c8c6560644cc0b2387ad",
+          "s:b10aa212af7054b8aa5b15ab",
+          "vless|147.78.182.5|443|79c1177e-4cf6-c135-09bf-9aaf3b4945b9|reality|xhttp|dl.kaspersky.com||\/||Nnpwm8dqFl9dlMJmg0M9G11vmgCKzNagFTn4tH4sWy4||",
+          "vless|104.245.240.9|443|79c1177e-4cf6-c135-09bf-9aaf3b4945b9|reality|xhttp|cdn.steamstatic.com||\/||jYD82Xg6TRu2lR0XINMWxKb8dNycDwF-H28ZrtiafUo||",
+          "vless|147.78.182.3|443|f1ab1811-7396-aa8c-39a3-5fc44264e421|reality|xhttp|www.epson.com||\/||Rt2wltCWOxIroFggNWMudZDBJXls8DsF4icaWqxKDk8||",
+          "vless|64.49.38.4|443|f1ab1811-7396-aa8c-39a3-5fc44264e421|reality|xhttp|www.lenovo.com||\/||tICt4RT_Rw9KAU8hIf05_fzAMZnfUUyMfE-Ept6zcBY||",
+          "vless|62.233.39.9|443|f1ab1811-7396-aa8c-39a3-5fc44264e421|reality|xhttp|dl.dell.com||\/||oHaUPZiESTQQ89DMd4uIcPWgsyeFFy58iZYX_8mbvWk||",
+          "vless|170.168.97.8|443|f1ab1811-7396-aa8c-39a3-5fc44264e421|reality|xhttp|www.hp.com||\/||QzFNQqkvBnDKIyjXUHJQe9jruaw9G5AV44vDC-qvnlo||",
+          "s:aee0ccbf302d264f604c2ea6",
+          "vless|45.88.13.6|443|79c1177e-4cf6-c135-09bf-9aaf3b4945b9|reality|xhttp|download.nvidia.com||\/||FOQzn10eHqu4F5xOxiXW2bTDG8lH4TdOXP6A5rDqKFk||",
+          "vless|104.245.240.9|443|79c1177e-4cf6-c135-09bf-9aaf3b4945b9|reality|xhttp|www.hp.com||\/||QzFNQqkvBnDKIyjXUHJQe9jruaw9G5AV44vDC-qvnlo||",
+          "vless|147.78.182.5|443|79c1177e-4cf6-c135-09bf-9aaf3b4945b9|reality|xhttp|www.epson.com||\/||Rt2wltCWOxIroFggNWMudZDBJXls8DsF4icaWqxKDk8||",
+          "s:6910afe79ace9ded9c7b4106",
+          "s:9c36f23b2294b90fb469ecc2",
+          "vless|147.78.182.3|443|f1ab1811-7396-aa8c-39a3-5fc44264e421|reality|xhttp|dl.kaspersky.com||\/||Nnpwm8dqFl9dlMJmg0M9G11vmgCKzNagFTn4tH4sWy4||",
+          "vless|104.245.240.8|443|79c1177e-4cf6-c135-09bf-9aaf3b4945b9|reality|xhttp|www.epson.com||\/||-GbQJg3bnEGEVFjVaRRu01cgF1f0K_maI4d5MWtMb28||",
+          "vless|104.245.242.8|443|f1ab1811-7396-aa8c-39a3-5fc44264e421|reality|xhttp|download.nvidia.com||\/||FOQzn10eHqu4F5xOxiXW2bTDG8lH4TdOXP6A5rDqKFk||",
+          "s:6c391892909b2937d4b3357d",
+          "vless|140.235.168.5|443|79c1177e-4cf6-c135-09bf-9aaf3b4945b9|reality|xhttp|www.lenovo.com||\/||tICt4RT_Rw9KAU8hIf05_fzAMZnfUUyMfE-Ept6zcBY||",
+          "s:3b16c306d5f7b1db9936abda",
+          "s:e7ef2583eb2493b43d30c02e",
+          "vless|170.168.97.8|443|f1ab1811-7396-aa8c-39a3-5fc44264e421|reality|xhttp|cdn.steamstatic.com||\/||jYD82Xg6TRu2lR0XINMWxKb8dNycDwF-H28ZrtiafUo||"
+        ]
+      },
+      "p1_vless_last_count": {
+        "t": "i",
+        "v": 103
+      },
+      "p1__notif_text": {
+        "t": "s",
+        "v": "سرورای gRcp حذف شدن ب علت ناپایداری \nاز chefs picks یا همو انتخاب سرآشپز غافل نشید که بشدت خدان \nمشکلی بود بگین"
+      },
+      "notif_text": {
+        "t": "s",
+        "v": "سرورای gRcp حذف شدن ب علت ناپایداری \nاز chefs picks یا همو انتخاب سرآشپز غافل نشید که بشدت خدان \nمشکلی بود بگین"
+      },
+      "p1__mim_armed": {
+        "t": "b",
+        "v": true
+      },
+      "p1_tor_chain_armed": {
+        "t": "b",
+        "v": false
+      },
+      "p1_iran_bypass": {
+        "t": "b",
+        "v": true
+      },
+      "p1_vless_last_check": {
+        "t": "l",
+        "v": 1790350225881
+      },
+      "p1_section_open_appearance": {
+        "t": "b",
+        "v": false
+      },
+      "p1_section_open_routing": {
+        "t": "b",
+        "v": true
+      },
+      "p1_notif_text": {
+        "t": "s",
+        "v": "سرورای gRcp حذف شدن ب علت ناپایداری \nاز chefs picks یا همو انتخاب سرآشپز غافل نشید که بشدت خدان \nمشکلی بود بگین"
+      },
+      "p1__section_open_profile": {
+        "t": "b",
+        "v": true
+      },
+      "p1_section_open_troubleshooting": {
+        "t": "b",
+        "v": true
+      }
+    },
+    "split_tunneling": {
+      "mode": {
+        "t": "s",
+        "v": "EXCLUDE"
+      },
+      "packages": {
+        "t": "ss",
+        "v": [
+          "com.aistudio.referralbot.tzwkqy",
+          "ir.nasim",
+          "com.myirancell",
+          "com.dotin.wepod",
+          "ir.mservices.market",
+          "com.zoodfood.android",
+          "taxi.tap30.passenger",
+          "ir.divar",
+          "org.rajman.neshan.traffic.tehran.navigator",
+          "com.mysamantel",
+          "ir.easytrader.orbis.m.twa",
+          "org.rajman.map.traffic.mashhad",
+          "cab.snapp.passenger",
+          "com.aistudio.irancellgift.hjskrf",
+          "com.etick.mobilemancard"
+        ]
+      }
+    }
+  }
+}
